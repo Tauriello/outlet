@@ -1,0 +1,8 @@
+# ignore project
+.project
+
+# ignore classpath
+.classpath
+
+# ignore settings
+.settings/
